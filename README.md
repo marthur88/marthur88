@@ -1,4 +1,4 @@
-
+---
 ## Tech Stack
 
 #### Languages
@@ -18,6 +18,23 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+---
+#### Tools and Technologies
+
+![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=589632)
+![](https://img.shields.io/badge/GIS-ArcGIS-informational?style=flat&logo=arcgis&logoColor=white&color=2C7AC3)
+![](https://img.shields.io/badge/CAD-AutoCAD%20Civil%203D-informational?style=flat&logo=autodesk&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/Database-pgAdmin-informational?style=flat&logo=postgresql&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/Design-Framer-informational?style=flat&logo=framer&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/Hub-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbbc8a)
+![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbbc8a)
 
 ---
 
